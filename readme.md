@@ -1,5 +1,5 @@
-# Keyper
-> Written by OpSec WareHouse LLC (opsec.sh/market)
+# Keyper - Secure Password Manager
+> Written by OpSec WareHouse LLC ([opsec.sh](https://opsec.sh)/[market](https://opsec.market))
 
 ## Features
 - Support for both CLI and GUI
